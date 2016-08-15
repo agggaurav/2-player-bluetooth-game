@@ -13,30 +13,15 @@
 
     </ListView>
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="paired"
-        android:id="@+id/button3"
-        android:layout_alignBaseline="@+id/button4"
-        android:layout_alignBottom="@+id/button4"
-        android:layout_toRightOf="@+id/button4"
-        android:layout_toEndOf="@+id/button4" />
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="scan"
-        android:id="@+id/button4"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true" />
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Bluetooth Activity"
         android:id="@+id/button5"
-        android:layout_above="@+id/button3"
-       />
+
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
 
 </RelativeLayout>

@@ -122,15 +122,7 @@ public class MainActivity extends Activity {
                 infor.setText("Login attempt failed." + e);
             }
         });
-        Button btn=(Button)findViewById(R.id.button);
-        btn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
 
-                Intent as=new Intent(getApplication(),Second.class);
-                startActivity(as);
-            }
-        });
 
         Button btn1=(Button)findViewById(R.id.button2);
         btn1.setOnClickListener(new View.OnClickListener() {
