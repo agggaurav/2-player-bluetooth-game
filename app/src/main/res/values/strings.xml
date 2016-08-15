@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">game2</string>
+    <string name="facebook_app_id">579496572212236</string>
+    <string name="fb_login_protocol_scheme">fb579496572212236</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">Second</string>
+    <string name="title_activity_bluetoothconn">bluetoothconn</string>
+    <string name="button_scan">button_scan</string>
+    <string name="title_other_devices">title_other_devices</string>
+    <string name="title_paired_devices">title_paired_devices</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving...</string>
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="connectText">Connect a device</string>
+    <string name="discoverText">Make discoverable</string>
+    <string name="startGameText">Start Game</string>
+
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="title_activity_deviceListActivity">deviceListActivity</string>
+    <string name="title_activity_bluetoothActivity">bluetoothActivity</string>
+
+
+</resources>
